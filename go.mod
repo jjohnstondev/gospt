@@ -10,7 +10,7 @@ require (
 	github.com/cristalhq/aconfig v0.18.5
 	github.com/cristalhq/aconfig/aconfigyaml v0.17.1
 	github.com/spf13/cobra v1.8.1
-	github.com/zmb3/spotify/v2 v2.4.2
+	github.com/zmb3/spotify/v2 v2.4.3
 	golang.org/x/net v0.27.0
 	golang.org/x/oauth2 v0.21.0
 	golang.org/x/sync v0.7.0
